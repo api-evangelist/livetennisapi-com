@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Live Tennis API is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://livetennisapi.com
+Live Tennis API provides real-time tennis scores, match statistics, player rankings, and betting odds through a REST and WebSocket API. It covers ATP, WTA, Challenger and ITF events, offering point‑by‑point data, win‑probability models, and market price ticks for developers building dashboards, analytics, or broadcast graphics. Free tier includes 100 requests per day, with paid plans for higher volume and additional data such as historical results and live odds.
+
+**Areas:** Company · Sports · Data · Real-time · API · Tennis
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://livetennisapi.com)
+- [Documentation](https://docs.livetennisapi.com)
+- [Getting started](https://livetennisapi.com/subscribe/free)
+- [API reference](https://docs.livetennisapi.com/reference.html)
+- [Pricing](https://livetennisapi.com/pricing)
+- [Sign up](https://livetennisapi.com/subscribe/free)
+- [Support](https://livetennisapi.com/contact)
+- [Blog](https://blog.livetennisapi.com/blog)
+- [Terms of service](https://livetennisapi.com/terms)
+- [Privacy policy](https://livetennisapi.com/privacy)
+- [GitHub](https://github.com/livetennisapi)
+
+**APIs profiled:** 17
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/livetennisapi-com/](https://apis.io/providers/livetennisapi-com/).
