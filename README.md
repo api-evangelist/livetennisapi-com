@@ -64,9 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Live Tennis API provides real-time tennis scores, match statistics, player rankings, and betting odds through a REST and WebSocket API. It covers ATP, WTA, Challenger and ITF events, offering point‑by‑point data, win‑probability models, and market price ticks for developers building dashboards, analytics, or broadcast graphics. Free tier includes 100 requests per day, with paid plans for higher volume and additional data such as historical results and live odds.
+Live Tennis API provides real-time tennis scores, player data, match-winner market odds, AI-driven win probability, and extensive historical data across ATP, WTA, Challenger, ITF and junior Grand Slam events via a read‑only REST and WebSocket interface. Tiered plans (Free, Basic, Pro, Ultra) unlock increasing data depth, including point‑by‑point tapes, market prices, shot‑level charting, and live statistical streams.
 
-**Areas:** Company · Sports · Data · Real-time · API · Tennis
+**Areas:** Sports · LiveData · Tennis · Scores · Betting
+
+## Live Tennis API on APIs.io
+
+Everything profiled for Live Tennis API is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/livetennisapi-com/](https://apis.io/providers/livetennisapi-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [Live Tennis API Broadcast API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-broadcast-api/) — The Broadcast API from Live Tennis API — 2 operation(s) for broadcast.
+- [Live Tennis API Charting API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-charting-api/) — The Charting API from Live Tennis API — 2 operation(s) for charting.
+- [Live Tennis API Events API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-events-api/) — The Events API from Live Tennis API — 1 operation(s) for events.
+- [Live Tennis API Fixtures API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-fixtures-api/) — The Fixtures API from Live Tennis API — 1 operation(s) for fixtures.
+- [Live Tennis API H2h API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-h2h-api/) — The H2h API from Live Tennis API — 1 operation(s) for h2h.
+- [Live Tennis API Health API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-health-api/) — The Health API from Live Tennis API — 1 operation(s) for health.
+- [Live Tennis API History API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-history-api/) — The History API from Live Tennis API — 14 operation(s) for history.
+- [Live Tennis API Markets API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-markets-api/) — The Markets API from Live Tennis API — 2 operation(s) for markets.
+- [Live Tennis API Matches API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-matches-api/) — The Matches API from Live Tennis API — 10 operation(s) for matches.
+- [Live Tennis API Players API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-players-api/) — The Players API from Live Tennis API — 5 operation(s) for players.
+- [Live Tennis API Rally API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-rally-api/) — The Rally API from Live Tennis API — 2 operation(s) for rally.
+- [Live Tennis API Rankings API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-rankings-api/) — The Rankings API from Live Tennis API — 1 operation(s) for rankings.
+- [Live Tennis API Tournaments API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-tournaments-api/) — The Tournaments API from Live Tennis API — 2 operation(s) for tournaments.
+- [Live Tennis API Usage API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-usage-api/) — The Usage API from Live Tennis API — 1 operation(s) for usage.
+- [Live Tennis API Webhooks API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-webhooks-api/) — The Webhooks API from Live Tennis API — 2 operation(s) for webhooks.
+- [Live Tennis API Ws Token API](https://apis.io/apis/livetennisapi-com/livetennisapi-com-ws-token-api/) — The Ws Token API from Live Tennis API — 1 operation(s) for ws token.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Livetennisapi Com Agentic Access](https://apis.io/agentic-access/livetennisapi-com/livetennisapi-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ArchiveTape](https://apis.io/schemas/livetennisapi-com/livetennisapi-com-archive-tape/)
+- [HistoryPackage](https://apis.io/schemas/livetennisapi-com/livetennisapi-com-history-package/)
+- [HistoryTape](https://apis.io/schemas/livetennisapi-com/livetennisapi-com-history-tape/)
+- [Match](https://apis.io/schemas/livetennisapi-com/livetennisapi-com-match/)
+- [Player](https://apis.io/schemas/livetennisapi-com/livetennisapi-com-player/)
+- [Score](https://apis.io/schemas/livetennisapi-com/livetennisapi-com-score/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Livetennisapi Com Context](https://apis.io/jsonld/livetennisapi-com/livetennisapi-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Livetennisapi Com Openapi Overlay](https://apis.io/overlays/livetennisapi-com/livetennisapi-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Live Tennis API API Rules](https://apis.io/rules/livetennisapi-com/livetennisapi-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Livetennisapi Com Authentication](https://apis.io/security/livetennisapi-com/livetennisapi-com-authentication/)
+- [Livetennisapi Com Domain Security](https://apis.io/security/livetennisapi-com/livetennisapi-com-domain-security/)
+- [Livetennisapi Com Vulnerability Disclosure](https://apis.io/security/livetennisapi-com/livetennisapi-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Livetennisapi Com Scopes](https://apis.io/scopes/livetennisapi-com/livetennisapi-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Livetennisapi Com Plans Pricing](https://apis.io/plans/livetennisapi-com/livetennisapi-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Livetennisapi Com Rate Limits](https://apis.io/rate-limits/livetennisapi-com/livetennisapi-com-rate-limits/)
 
 ## Where to find this API
 
@@ -74,18 +162,63 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://livetennisapi.com)
 - [Documentation](https://docs.livetennisapi.com)
-- [Getting started](https://livetennisapi.com/subscribe/free)
-- [API reference](https://docs.livetennisapi.com/reference.html)
 - [Pricing](https://livetennisapi.com/pricing)
-- [Sign up](https://livetennisapi.com/subscribe/free)
-- [Support](https://livetennisapi.com/contact)
-- [Blog](https://blog.livetennisapi.com/blog)
+- [Blog](https://blog.livetennisapi.com/blog/)
 - [Terms of service](https://livetennisapi.com/terms)
 - [Privacy policy](https://livetennisapi.com/privacy)
 - [GitHub](https://github.com/livetennisapi)
 
-**APIs profiled:** 17
-
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/livetennisapi-com/](https://apis.io/providers/livetennisapi-com/).
+**Kin Score 64.8** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 61.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 34.7 |
+| Developer ergonomics | 51.7 |
+| Access clarity | 73.2 |
+
+**Agent readiness 55.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/livetennisapi-com/](https://apis.io/providers/livetennisapi-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Live Tennis API: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/livetennisapi-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
